@@ -8,6 +8,9 @@ This is a Raft implementation providing with a template code (at branch `templat
 
 The implementation is for education/personal training purpose. NOT for any production usage.
 
+## Unittest result
+![image](./imgs/image.png)
+
 ## For Students of the NTHU CS5426 Distributed System Course
 
 In the final project, you are asked to implement the Raft consensus algorithm, also a replicated state machine protocol, as the [paper](https://raft.github.io/raft.pdf) described and learn to:
